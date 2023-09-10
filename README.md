@@ -39,6 +39,7 @@ doi = {https://doi.org/10.1016/j.tust.2021.103974}
 ## Logs
 
 Ver 0.9, 11/19/2020, source code
+
 Ver 1.0, 09/09/2023, GUI
 
 ## Features
